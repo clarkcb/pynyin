@@ -52,6 +52,6 @@ The utility can also be used as a library. For examples of how to do this, have 
 
 
 ## TODOs / Wishlist
-* Parse pinyin into syllables and output lists of tones or syllables (with tones preserved or stripped) - I have already planned to do this but haven't had a chance to implementing it yet
+* Parse pinyin into syllables and output lists of tones or syllables (with tones preserved or stripped) - I have already planned to do this but haven't had a chance to implement it yet
 * Convert a Chinese character string into a corresponding pinyin string - this will be tricky and probably require tapping into some IME or similar system
 
